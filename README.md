@@ -1,3 +1,3 @@
 # Simple Contacts List React project
 
-# Github Pages: sashastereo.github.io
+Github Pages: https://sashastereo.github.io
